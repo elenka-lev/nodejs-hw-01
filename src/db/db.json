@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "32d93ed6-7471-4993-9f9e-4e8c53b4dc35",
+    "name": "Ms. Kathy Ward",
+    "phone": "(837) 803-9370 x89102",
+    "email": "Otha_Auer75@gmail.com",
+    "job": "Future Data Executive"
+  },
+  {
+    "id": "7a6abb67-d3c6-40c4-a49f-fd7617d668c1",
+    "name": "Herman Krajcik",
+    "phone": "573.850.6095",
+    "email": "Jarrell.Ebert18@gmail.com",
+    "job": "Legacy Applications Facilitator"
+  },
+  {
+    "id": "914b4466-df07-41d1-b4e0-a10fced1ec4d",
+    "name": "Alfred Gerhold",
+    "phone": "1-202-680-1032 x883",
+    "email": "Samantha_Quigley@gmail.com",
+    "job": "Future Security Engineer"
+  }
+]
